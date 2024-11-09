@@ -1,4 +1,4 @@
-import express from "express"
+import express from "express";
 import AutoresController from "../controllers/autoresController.js";
 
 const router = express.Router();
